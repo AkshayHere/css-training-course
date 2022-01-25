@@ -1,0 +1,16 @@
+{
+    "name": "css-training-course",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "http-server src/ -p 3001",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "http-server": "^14.1.0"
+    }
+}
